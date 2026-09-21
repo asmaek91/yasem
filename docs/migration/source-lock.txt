@@ -1,4 +1,4 @@
-main	3e3c76de1dba9d45c3f4cf89604d77f2e3f93505
+main	06b674ab7fc8d48b9b86d5efd57e7bf0d2111f0a
 plugins/yasem-desktop-gui	e7ba522cb3007a06abfd9ad41beb1fd0011fa9b5	https://github.com/mvasilchuk/yasem-desktop-gui.git
 plugins/yasem-dunehd-api	fa6ea27d5392c49503fb813ce12678ede27c3ff1	https://github.com/mvasilchuk/yasem-dunehd-api.git
 plugins/yasem-google-analytics	317a5ac5e5f666754ca35efccb093e516f477ab3	https://github.com/mvasilchuk/yasem-google-analytics.git
