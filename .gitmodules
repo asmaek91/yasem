@@ -52,7 +52,7 @@
 	url = https://github.com/mvasilchuk/yasem-web-gui-plugin.git
 [submodule "yasem-sdk"]
 	path = yasem-sdk
-	url = https://github.com/mvasilchuk/yasem-sdk.git
+	url = https://github.com/asmaek91/yasem-sdk.git
 [submodule "plugins/yasem-google-analytics"]
 	path = plugins/yasem-google-analytics
 	url = https://github.com/mvasilchuk/yasem-google-analytics.git
