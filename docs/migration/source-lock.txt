@@ -1,0 +1,21 @@
+main	3e3c76de1dba9d45c3f4cf89604d77f2e3f93505
+plugins/yasem-desktop-gui	e7ba522cb3007a06abfd9ad41beb1fd0011fa9b5	https://github.com/mvasilchuk/yasem-desktop-gui.git
+plugins/yasem-dunehd-api	fa6ea27d5392c49503fb813ce12678ede27c3ff1	https://github.com/mvasilchuk/yasem-dunehd-api.git
+plugins/yasem-google-analytics	317a5ac5e5f666754ca35efccb093e516f477ab3	https://github.com/mvasilchuk/yasem-google-analytics.git
+plugins/yasem-ini-datasource	f5b6f3da1824846c3938c35162023de5ad45c8f7	https://github.com/mvasilchuk/yasem-ini-datasource.git
+plugins/yasem-kde-integration	3a6412a2449fead1178d86a386b9affde9889d20	https://github.com/mvasilchuk/yasem-kde-integration.git
+plugins/yasem-mag-api	f3646885e899a9b7e94905ebda3043eec5276473	https://github.com/mvasilchuk/yasem-mag-api.git
+plugins/yasem-osx-integration	151ea2f4474d87231313fd46011efa64e91ce6ac	https://github.com/mvasilchuk/yasem-osx-integration.git
+plugins/yasem-qt-mediaplayer	51206a1c7296b24ad4808c87f9a7664310f150be	https://github.com/mvasilchuk/yasem-qt-mediaplayer.git
+plugins/yasem-qtav-mediaplayer	5671f71c2fd83367d82f474b716f890f0d5b376c	https://github.com/mvasilchuk/yasem-qtav-mediaplayer.git
+plugins/yasem-qtav-mediaplayer/QtAV	649568fae06cf6c8460fbe413c1ce749ea4f1821	https://github.com/mvasilchuk/yasem-qtav.git
+plugins/yasem-qtav-mediaplayer/QtAV/contrib/capi	37bbbe88128c102c0a50c0b2cfcbe599edcb27f4	https://github.com/wang-bin/capi.git
+plugins/yasem-qtav-mediaplayer/QtAV/contrib/libchardet	38c9fb6e8523f5452615ce1fd6ea67c3ff5ea851	https://github.com/wang-bin/libchardet.git
+plugins/yasem-samsung-smarttv-api	223ab661902a0db9f6313452ac88c4f5b6d990aa	https://github.com/mvasilchuk/yasem-samsung-smarttv-api.git
+plugins/yasem-tray-icon	0b40fcfdcb97aff7e94bfa58b3867e499e697fb0	https://github.com/mvasilchuk/yasem-tray-icon.git
+plugins/yasem-web-browser	d76524cb0473534e43e5c2d609ddacb90c642a04	https://github.com/mvasilchuk/yasem-web-browser.git
+plugins/yasem-web-gui-plugin	8a15900baad81c5cc31f30ae21b08e6b38da037e	https://github.com/mvasilchuk/yasem-web-gui-plugin.git
+plugins/yasem-web-server	b45675fdd5bb7d1db44fb68a147351dbec45ffa8	https://github.com/mvasilchuk/yasem-web-server.git
+plugins/yasem-windows-integration	5864f2c41d5429d2b7b66a6ecff5f069f6b7a25a	https://github.com/mvasilchuk/yasem-windows-integration.git
+yasem-core	f057be6f5131f0edcd7455f57d2dbd643b39234f	https://github.com/mvasilchuk/yasem-core.git
+yasem-sdk	169f222104f08aa46fb5d2a73037ccc293c2c265	https://github.com/mvasilchuk/yasem-sdk.git
